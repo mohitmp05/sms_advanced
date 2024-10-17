@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:sms_advanced/sms_advanced.dart';
+import 'package:sms_advanced2/sms_advanced.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('plugins.elyudde.com/querySMS');

@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  sms_advanced:
+  sms_advanced2:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.

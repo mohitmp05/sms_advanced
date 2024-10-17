@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:sms_advanced/contact.dart';
+import 'package:sms_advanced2/contact.dart';
 
 typedef OnError = Function(Object error);
 
